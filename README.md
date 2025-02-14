@@ -6,7 +6,7 @@
 
 I'm a Python Developer with a strong foundation in Machine Learning, Deep Learning, and MLOps. I thrive on solving complex problems, optimizing ML workflows, and building scalable applications. My passion lies in continuous learning, making me highly adaptable to new technologies and challenges.
 
-💡 What I Bring to the Table
+**💡 What I Bring to the Table:**
 
 🧠 Strong ML & AI Knowledge – Experienced in training and deploying ML models
 
